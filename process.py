@@ -144,6 +144,8 @@ def merge(x, y, z):
 if __name__ == '__main__':
     # read data
     x_train, y_train, z_train, x_val, y_val, z_val = read()
+    # count features
+    countingfeature()
     # process data
     train_pro = process(x_train)
     val_pro = process(x_val)

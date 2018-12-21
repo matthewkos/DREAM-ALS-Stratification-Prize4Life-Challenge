@@ -96,7 +96,7 @@ def test(sess, loss_op, log_op, logger, data):
 
 if __name__ == '__main__':
     t_train, s_train, y_train, t_val, s_val, y_val = read_data()
-    save_path = '/model/sub-2.ckpt'
+    save_path = 'model/sub-2.ckpt'
     batch_size = 10
     time_series_feature = t_train.shape[1]
     time_series_length = t_train.shape[2]
