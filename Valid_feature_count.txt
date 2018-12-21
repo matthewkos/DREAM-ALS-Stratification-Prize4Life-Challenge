@@ -1,0 +1,769 @@
+feature_name
+Race                                                                  200
+Gender                                                                200
+Age                                                                   200
+onset_site                                                            187
+onset_delta                                                           185
+treatment_group                                                       178
+weight                                                                167
+temperature                                                           167
+AST(SGOT)                                                             166
+bp_diastolic                                                          166
+pulse                                                                 166
+bp_systolic                                                           166
+ALT(SGPT)                                                             166
+respiratory_rate                                                      165
+diag_delta                                                            164
+Q5_Cutting                                                            162
+mouth                                                                 162
+Q1_Speech                                                             162
+Q2_Salivation                                                         162
+Q3_Swallowing                                                         162
+Q4_Handwriting                                                        162
+ALSFRS_Total                                                          162
+hands                                                                 162
+Q6_Dressing_and_Hygiene                                               162
+Q7_Turning_in_Bed                                                     162
+Q8_Walking                                                            162
+respiratory_R                                                         162
+respiratory                                                           162
+leg                                                                   162
+Q9_Climbing_Stairs                                                    162
+R1_Dyspnea                                                            162
+R2_Orthopnea                                                          162
+R3_Respiratory_Insufficiency                                          162
+trunk                                                                 162
+ALSFRS_R_Total                                                        162
+if_use_Riluzole                                                       158
+Chloride                                                              135
+White Blood Cell (WBC)                                                135
+Creatinine                                                            135
+Blood Urea Nitrogen (BUN)                                             135
+Hemoglobin                                                            135
+Platelets                                                             135
+Potassium                                                             135
+height                                                                135
+Bicarbonate                                                           135
+Hematocrit                                                            135
+Red Blood Cells (RBC)                                                 135
+Sodium                                                                135
+Glucose                                                               135
+BMI                                                                   134
+fvc                                                                   118
+fvc_percent                                                           118
+Monocytes                                                             117
+Q5a_Cutting_without_Gastrostomy                                       117
+Lymphocytes                                                           117
+Eosinophils                                                           117
+Basophils                                                             117
+Absolute Basophil Count                                               117
+Bilirubin (total)                                                     117
+Absolute Monocyte Count                                               117
+Absolute Neutrophil Count                                             117
+Absolute Eosinophil Count                                             117
+Urine Ph                                                              115
+Urine blood                                                           115
+Urine Color                                                           115
+Urine Urobilinogen                                                    115
+Urine Protein                                                         115
+Urine Specific Gravity                                                115
+Urine Nitrite                                                         115
+Urine Leukesterase                                                    115
+Urine Ketones                                                         115
+Urine Appearance                                                      115
+Urine Glucose                                                         115
+Calcium                                                               107
+Albumin                                                               107
+fvc2                                                                  106
+fvc1                                                                  106
+fvc3                                                                  105
+Q5b_Cutting_with_Gastrostomy                                          103
+Urine WBCs                                                             99
+fvc_percent1                                                           98
+fvc_normal                                                             89
+fvc_percent2                                                           86
+fvc_percent3                                                           85
+Gamma-glutamyltransferase                                              80
+Urine RBCs                                                             79
+Urine Calcium Oxalate Crystals                                         77
+Absolute Lymphocyte Count                                              69
+Neutrophils                                                            69
+Urine Creatinine                                                       68
+BILIRUBIN                                                              68
+Uric Acid                                                              66
+Urine Bacteria                                                         66
+Mean Corpuscular Volume                                                66
+Urine Mucous                                                           65
+Prothrombin Time Ratio                                                 62
+Partial Thromboplastin Time                                            62
+Urine Squamous Epithelial Cells                                        60
+Phosphate                                                              59
+RILUZOLE                                                               59
+Bilirubin (Direct)                                                     49
+Alkaline Phosphatase                                                   49
+Bilirubin (Indirect)                                                   49
+Lactate Dehydrogenase                                                  49
+Protein                                                                48
+Phosphorus                                                             48
+Segmented Neutrophils                                                  48
+CK                                                                     48
+RBC Morphology                                                         48
+GFR                                                                    48
+family_ALS_hist                                                        48
+svc                                                                    48
+svc_percent                                                            48
+Absolute Lymphocyte count                                              48
+Total Cholesterol                                                      48
+Globulin                                                               48
+Triglycerides                                                          48
+Absolute Segmented Neutrophil Count                                    48
+Mean Corpuscular Hemoglobin Concentration                              48
+Magnesium                                                              48
+Mean Corpuscular Hemoglobin                                            48
+Urine Bilirubin                                                        47
+Urine Micro                                                            41
+Gastrointestinal motility and defaecation conditions                   41
+Gastrointestinal signs and symptoms                                    40
+FENTANYL                                                               37
+Infections - pathogen unspecified                                      36
+General system disorders NEC                                           35
+Respiratory disorders NEC                                              34
+Epidermal and dermal conditions                                        33
+AMORPHOUS URATES CRYSTALS                                              32
+Alkaline phosphatase                                                   31
+MULTIVITAMIN                                                           31
+MIDAZOLAM                                                              30
+URINE MICROSCOPIC                                                      28
+Beta HCG                                                               27
+Neurological disorders NEC                                             27
+LIDOCAINE                                                              27
+Injuries NEC                                                           26
+Gallbladder disorders                                                  25
+Hyaline Cast                                                           25
+BACLOFEN                                                               24
+Musculoskeletal and connective tissue disorders NEC                    24
+COENZYME Q10                                                           23
+AMORPHOUS PHOSPHATE CRYSTALS                                           21
+Muscle disorders                                                       19
+ACETAMINOPHEN                                                          19
+IBUPROFEN                                                              18
+Urine Spermatazoa                                                      18
+VITAMIN E                                                              18
+ASPIRIN                                                                18
+CEFAZOLIN                                                              17
+Q10_Respiratory                                                        17
+VITAMIN D                                                              17
+HEPARIN                                                                17
+Hydration Volume                                                       16
+Total Yield                                                            16
+VITAMIN C                                                              15
+Depressed mood disorders and disturbances                              14
+LORAZEPAM                                                              14
+Salivary gland conditions                                              14
+Administration site reactions                                          13
+Urine Albumin                                                          12
+CIPROFLOXACIN                                                          12
+Joint disorders                                                        12
+Urine Transitional Epithelial Cells                                    12
+OMEPRAZOLE                                                             12
+Bone and joint injuries                                                12
+URINE VOLUME                                                           11
+Urine Creatinine Clearance                                             11
+Urinary tract signs and symptoms                                       11
+Urine Yeast                                                            11
+Allergic conditions                                                    11
+URINE COLLECTION DURATION                                              11
+Vascular hypertensive disorders                                        10
+VITAMIN B12                                                            10
+Urine Triple Phosphate Crystals                                        10
+Urine albumin                                                          10
+Urine Finely Granular Cast                                              9
+LISINOPRIL                                                              9
+DOCUSATE SODIUM                                                         9
+Anxiety disorders and symptoms                                          9
+Urine Uric Acid Crystals                                                9
+Headaches                                                               8
+Fungal infectious disorders                                             8
+GABAPENTIN                                                              8
+Electrolyte and fluid balance conditions                                8
+AMITRIPTYLINE                                                           8
+VACCINE, INFLUENZA                                                      8
+TIZANIDINE                                                              8
+MAGNESIUM                                                               7
+Sleep disorders and disturbances                                        7
+Urine Amorphous Crystals                                                7
+VANCOMYCIN                                                              7
+GUAIFENESIN                                                             7
+FLUCONAZOLE                                                             7
+FISH OIL                                                                7
+VERSED                                                                  7
+LEVOFLOXACIN                                                            7
+GLYCOPYRROLATE                                                          7
+Procedural and device related injuries and complications NEC            7
+SCOPOLAMINE                                                             7
+Haematology investigations (incl blood groups)                          7
+DIPHENHYDRAMINE HYDROCHLORIDE                                           7
+LORATADINE                                                              6
+HYDROCHLOROTHIAZIDE                                                     6
+ALBUTEROL                                                               6
+METRONIDAZOLE                                                           6
+Urine Hyaline Cast                                                      6
+PREDNISONE                                                              6
+ALPRAZOLAM                                                              6
+SERTRALINE                                                              6
+CALCIUM                                                                 6
+METOPROLOL                                                              5
+HYOSCYAMINE                                                             5
+Upper respiratory tract disorders (excl infections)                     5
+VENLAFAXINE                                                             5
+Gastrointestinal therapeutic procedures                                 5
+POTASSIUM CHLORIDE                                                      5
+NAPROXEN                                                                5
+ONDANSETRON                                                             5
+ACETYLSALICYLIC ACID                                                    5
+EZETIMIBE                                                               5
+ZOLPIDEM TARTRATE                                                       5
+ZOLOFT                                                                  5
+CLONAZEPAM                                                              5
+CEPHALEXIN                                                              5
+DULOXETINE                                                              5
+EPINEPHRINE W/LIDOCAINE                                                 5
+Bacterial infectious disorders                                          5
+ESOMEPRAZOLE                                                            5
+Body temperature conditions                                             4
+FUROSEMIDE                                                              4
+LOPERAMIDE                                                              4
+SERTRALINE HYDROCHLORIDE                                                4
+CALCIUM VITAMIN D                                                       4
+POLYETHYLENE GLYCOL                                                     4
+Hepatobiliary investigations                                            4
+PNEUMOCOCCAL VACCINE                                                    4
+MIRTAZAPINE                                                             4
+MORPHINE                                                                4
+PANTOPRAZOLE                                                            4
+Mood disorders and disturbances NEC                                     4
+Skin appendage conditions                                               4
+ACETAMINOPHEN W/HYDROCODONE                                             4
+NYSTATIN                                                                4
+URSODIOL                                                                4
+ARMODAFINIL                                                             4
+ZOLPIDEM                                                                4
+HYDROCODONE/ACETAMINOPHEN                                               4
+Physical examination topics                                             4
+ALPHA LIPOIC ACID                                                       4
+DIPHENHYDRAMINE                                                         4
+AMLODIPINE                                                              4
+MIRALAX                                                                 3
+ALLEGRA                                                                 3
+MOMETASONE FUROATE MONOHYDRATE                                          3
+XYLOCAINE                                                               3
+MUPIROCIN                                                               3
+ASCORBIC ACID                                                           3
+Appetite and general nutritional disorders                              3
+Eye disorders NEC                                                       3
+ACETYL L CARNITINE                                                      3
+ATIVAN                                                                  3
+Mental impairment disorders                                             3
+AMITRIPTYLINE HCL                                                       3
+AMBIEN                                                                  3
+FERROUS SULFATE                                                         3
+AZITHROMYCIN                                                            3
+NORMAL SALINE                                                           3
+Abdominal hernias and other abdominal wall conditions                   3
+FLUTICASONE PROPIONATE                                                  3
+FOLIC ACID                                                              3
+BOTOX                                                                   3
+DEXTROSE SALINE                                                         3
+AMOXICILLIN                                                             3
+DOXYCYCLINE                                                             3
+DIAZEPAM                                                                3
+Vision disorders                                                        3
+Cardiac disorder signs and symptoms                                     3
+CREATINE                                                                3
+AMPICILLIN                                                              3
+COTRIMOXAZOLE                                                           3
+HbA1c (Glycated Hemoglobin)                                             3
+ANCEF                                                                   3
+LANSOPRAZOLE                                                            3
+CITALOPRAM                                                              3
+Hepatic and hepatobiliary disorders                                     3
+DULCOLAX                                                                3
+CELEXA                                                                  3
+ESCITALOPRAM                                                            3
+CEFTRIAXONE                                                             3
+Lower respiratory tract disorders (excl obstruction and infection)      3
+VITAMIN B6                                                              3
+METFORMIN                                                               3
+VITAMIN B COMPLEX                                                       3
+White blood cell disorders                                              3
+Gastrointestinal ulceration and perforation                             3
+Urine Coarsely Granular Cast                                            3
+OMEGA 3                                                                 3
+SELENIUM                                                                3
+SODIUM BICARBONATE                                                      3
+STOOL SOFTENER                                                          3
+QUININE SULFATE                                                         3
+Urolithiases                                                            3
+Renal disorders (excl nephropathies)                                    3
+SIMVASTATIN                                                             3
+TYLENOL                                                                 3
+TRAMADOL                                                                3
+PSYLLIUM                                                                2
+CALCIUM/VITAMIN D                                                       2
+PSEUDOEPHEDRINE HYDROCHLORIDE                                           2
+SODIUM CHLORIDE                                                         2
+PSEUDOEPHEDRINE                                                         2
+HYDROMORPHONE                                                           2
+PROZAC                                                                  2
+PROTONIX                                                                2
+CALCIUM CARBONATE                                                       2
+HYDROCORTISONE                                                          2
+Bronchial disorders (excl neoplasms)                                    2
+PYRIDOSTIGMINE                                                          2
+Bone disorders (excl congenital and fractures)                          2
+HYDROCODONE                                                             2
+Embolism and thrombosis                                                 2
+BISACODYL                                                               2
+Inner ear and VIIIth cranial nerve disorders                            2
+LITHIUM CARBONATE                                                       2
+ZOFRAN                                                                  2
+ZINC OXIDE                                                              2
+ZANTAC                                                                  2
+LORATADINE W/PSEUDOEPHEDRINE                                            2
+PREGABALIN                                                              2
+LOPERAMIDE HYDROCHLORIDE                                                2
+LOCAL ANESTHETICS                                                       2
+Anaemias nonhaemolytic and marrow depression                            2
+Glucose metabolism disorders (incl diabetes mellitus)                   2
+LIPITOR                                                                 2
+SUPER B COMPLEX                                                         2
+BACITRACIN                                                              2
+LEVOTHYROXINE                                                           2
+LEVAQUIN                                                                2
+BENADRYL                                                                2
+BENEFIBER                                                               2
+HYDROCHLOROTHIAZIDE W/LOSARTAN POTASSIUM                                2
+Gastrointestinal inflammatory conditions                                2
+CELECOXIB                                                               2
+SALINE                                                                  2
+FEXOFENADINE                                                            2
+FENTANYL CITRATE                                                        2
+RANITIDINE                                                              2
+FENOFIBRATE                                                             2
+CYANOCOBALAMIN                                                          2
+RESVERATROL                                                             2
+Vulvovaginal disorders (excl infections and inflammations)              2
+Cardiac arrhythmias                                                     2
+ESOMEPRAZOLE MAGNESIUM                                                  2
+Urine Sulfonamide Crystals                                              2
+ESCITALOPRAM OXALATE                                                    2
+ENOXAPARIN                                                              2
+DEXTROMETHORPHAN                                                        2
+Decreased and nonspecific blood pressure disorders and shock            2
+DILTIAZEM                                                               2
+COLACE                                                                  2
+FLEET                                                                   2
+Gastrointestinal stenosis and obstruction                               2
+FLOMAX                                                                  2
+CHLORHEXIDINE                                                           2
+Lipid metabolism disorders                                              2
+Gastrointestinal haemorrhages NEC                                       2
+Vascular disorders NEC                                                  2
+SENNA                                                                   2
+CITALOPRAM HYDROBROMIDE                                                 2
+GLUCOSAMINE & CHONDROITIN                                               2
+GENTAMICIN                                                              2
+CLINDAMYCIN                                                             2
+SAW PALMETTO                                                            2
+QUINAPRIL                                                               2
+FLUTICASONE                                                             2
+COCONUT OIL                                                             2
+QUININE                                                                 2
+FLONASE                                                                 2
+TAMSULOSIN                                                              2
+DOCUSATE                                                                2
+PRAVASTATIN SODIUM                                                      2
+ATORVASTATIN                                                            2
+NITROFURANTOIN                                                          2
+ACTONEL                                                                 2
+METHYLPREDNISOLONE                                                      2
+NEXIUM                                                                  2
+ATENOLOL                                                                2
+AMLODIPINE BESYLATE                                                     2
+TYLENOL W/CODEINE NO. 3                                                 2
+Movement disorders (incl parkinsonism)                                  2
+MICONAZOLE                                                              2
+PIPERACILLIN & TAZOBACTAM                                               2
+MIDAZOLAM HYDROCHLORIDE                                                 2
+Ocular infections, irritations and inflammations                        2
+MONTELUKAST                                                             2
+AMOXICILLIN W/CLAVULANIC ACID                                           2
+PAROXETINE                                                              2
+PAROXETINE HYDROCHLORIDE                                                2
+PENICILLIN                                                              2
+MORPHINE SULFATE                                                        2
+PRAVASTATIN                                                             2
+ACETYLCYSTEIN                                                           2
+ALBUTEROL SULFATE                                                       2
+TESTOSTERONE                                                            2
+NYQUIL                                                                  2
+TETANUS VACCINE                                                         2
+AUGMENTIN                                                               2
+MELOXICAM                                                               2
+Neuromuscular disorders                                                 2
+CLOBETASOL PROPIONATE                                                   1
+ACETAMINOPHEN W/DIPHENHYDRAMINE HYDROCHLORIDE                           1
+AMILORIDE                                                               1
+CLONIDINE                                                               1
+CLOPIDOGREL                                                             1
+AMILORIDE HYDROCHLORIDE                                                 1
+AMIKACIN                                                                1
+CLOTRIMAZOLE AND BETAMETHASONE                                          1
+CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE                             1
+DILANTIN                                                                1
+DIGOXIN                                                                 1
+TRIAMCINOLONE                                                           1
+TRIAMCINOLONE ACETONIDE                                                 1
+DICYCLOMINE                                                             1
+DILAUDID                                                                1
+DANTROLENE                                                              1
+CLIMARA                                                                 1
+ROCEPHINE                                                               1
+AMLODIPINE BESILATE W/HYDROCHLOROTHIAZIDE/VALSARTAN                     1
+TRAMADOL HYDROCHLORIDE                                                  1
+TRAZODONE                                                               1
+CIMETIDINE                                                              1
+CINNAMON                                                                1
+DITROPAN                                                                1
+AMILORIDE W/HYDROCHLOROTHIAZIDE                                         1
+ROXANOL                                                                 1
+CIPROFLOXACIN HYDROCHLORIDE                                             1
+ROSUVASTATIN                                                            1
+AMILORIDE HYDROCHLORIDE W/HYDROCHLOROTHIAZIDE                           1
+SCOPOLAMINE HYDROBROMIDE                                                1
+CLARITIN                                                                1
+CLARITIN-D                                                              1
+TUSSIN                                                                  1
+Tendon, ligament and cartilage disorders                                1
+RUBINOL                                                                 1
+DETROL                                                                  1
+CREATINE MONOHYDRATE                                                    1
+CULTURELLE                                                              1
+ACIDOPHILUS                                                             1
+UNISOM                                                                  1
+CYCLOBENZAPRINE                                                         1
+Cardiac and vascular investigations (excl enzyme tests)                 1
+DAYQUIL                                                                 1
+CRANBERRY                                                               1
+Renal and urinary tract investigations and urinalyses                   1
+Central nervous system vascular disorders                               1
+Urine RBC clumps                                                        1
+Viral infectious disorders                                              1
+ACETYLCHOLINE CHLORIDE                                                  1
+Urine Granular Cast                                                     1
+ADVAIR                                                                  1
+COVERSYL                                                                1
+ACETAMINOPHEN W/HYDROCODONE BITARTRATE                                  1
+CORAL CALCIUM                                                           1
+Therapeutic procedures and supportive care NEC                          1
+ALEVE                                                                   1
+ALENDRONATE SODIUM                                                      1
+COLESEVELAM HYDROCHLORIDE                                               1
+COMBIVENT                                                               1
+CONJUGATED ESTROGENS                                                    1
+ALBUTEROL W/IPRATROPIUM                                                 1
+DEXPRAMIPEXOLE                                                          1
+CORTISONE                                                               1
+SALBUTAMOL                                                              1
+DEXTROSE                                                                1
+Tissue disorders NEC                                                    1
+Urine Calcium Carbonate Crystals                                        1
+COUMADIN                                                                1
+CHOLECALCIFEROL                                                         1
+SEPTRA                                                                  1
+CHLORAL HYDRATE                                                         1
+BACTRIM                                                                 1
+BACTRIM DS                                                              1
+BALANCE SALT                                                            1
+ATORVASTATIN CALCIUM                                                    1
+BENAZEPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZ                           1
+BETADINE                                                                1
+BEVACIZUMAB                                                             1
+THIOCTIC ACID                                                           1
+ATENOLOL AND CHLORTHALIDONE                                             1
+BISMUTH SUBSALICYLATE                                                   1
+XANAX                                                                   1
+SPIRULINA                                                               1
+BUDESONIDE W/FORMOTEROL FUMARATE                                        1
+BUPIVACAINE                                                             1
+BUPROPION                                                               1
+BUPROPION HYDROCHLORIDE                                                 1
+BUTRANS                                                                 1
+SODIUM PHOSPHATE                                                        1
+ATROPINE                                                                1
+SUCRALFATE                                                              1
+ZOSYN                                                                   1
+ATROPINE OPTHALMIC                                                      1
+TAMOXIFEN CITRATE                                                       1
+Spinal cord and nerve root disorders                                    1
+TAMSULOSIN HYDROCHLORIDE                                                1
+TERBINAFINE                                                             1
+ZOPICLONE                                                               1
+ZANAFLEX                                                                1
+THERAGRAN                                                               1
+AZELASTINE HYDROCHLORIDE                                                1
+Skin and subcutaneous tissue therapeutic procedures                     1
+Seizures (incl subtypes)                                                1
+Amylase                                                                 1
+AVAPRO                                                                  1
+Anterior eye structural change, deposit and degeneration                1
+SYNTHROID                                                               1
+Aural disorders NEC                                                     1
+B-50 COMPLEX                                                            1
+ATROPINE SULFATE                                                        1
+XALATAN                                                                 1
+ROCEPHIN                                                                1
+TOPROL                                                                  1
+TOBRAMYCIN                                                              1
+TOBRAMYCIN AND DEXAMETHASONE                                            1
+CARBOXYMETHYLCELLULOSE                                                  1
+CARBOXYMETHYLCELLULOSE SODIUM                                           1
+TOLTERODINE                                                             1
+CARVEDILOL                                                              1
+CASANTHRANOL W/DOCUSATE                                                 1
+CEFALEXIN                                                               1
+SIMETHICONE                                                             1
+CEFAZOLIN SODIUM                                                        1
+CEFEPIME                                                                1
+TOPIRAMATE                                                              1
+SILDENAFIL CITRATE                                                      1
+CELEBREX                                                                1
+CENTRUM                                                                 1
+SENNOSIDE                                                               1
+CETIRIZINE                                                              1
+CETIRIZINE HCL                                                          1
+CANNABIS                                                                1
+ANESTHETICS, GENERAL                                                    1
+WELLBUTRIN                                                              1
+APRACLONIDINE                                                           1
+WELCHOL                                                                 1
+WARFARIN                                                                1
+SMOOTH LAX                                                              1
+SINGULAR                                                                1
+THYROXINE                                                               1
+Breast disorders                                                        1
+TIMOLOL MALEATE                                                         1
+C                                                                       1
+CAFFEINE                                                                1
+SINGULAIR                                                               1
+CALCIUM ALGINATE                                                        1
+ARTIFICIAL TEARS                                                        1
+CALCIUM CHLORIDE                                                        1
+CALCIUM CITRATE                                                         1
+CALCIUM GLUCONATE                                                       1
+TIZANIDINE HYDROCHLORIDE                                                1
+ARIPIPRAZOLE                                                            1
+WHEY PROTEIN                                                            1
+OLIVE LEAVES EXTRACT                                                    1
+DOXAZOSIN                                                               1
+MAALOX                                                                  1
+PRILOSEC                                                                1
+LISPRO INSULIN                                                          1
+LITHIUM                                                                 1
+PREMARIN                                                                1
+PREDNISOLONE W/SULFACETAMIDE SODIUM                                     1
+LOSARTAN                                                                1
+LOVENOX                                                                 1
+LUBIPROSTONE                                                            1
+PREDNISOLONE                                                            1
+Lipase                                                                  1
+MACROBID                                                                1
+METHADONE                                                               1
+POTASSIUM GLUCONATE                                                     1
+MAGNESIUM OXIDE                                                         1
+MARINOL                                                                 1
+MECLIZINE                                                               1
+MEDROL                                                                  1
+MEDROXYPROGESTERONE ACETATE                                             1
+MELATONIN                                                               1
+MEMANTINE                                                               1
+MEPERIDINE                                                              1
+POTASSIUM CHLORIDE W/SODIUM CHLORIDE                                    1
+LIQUID CALCIUM                                                          1
+LIORESAL                                                                1
+LIDODERM                                                                1
+LIDOCAINE HYDROCHLORIDE                                                 1
+PROCHLORPERAZINE                                                        1
+KEFLEX                                                                  1
+KENALOG                                                                 1
+KETAMINE                                                                1
+KETOROLAC                                                               1
+KLONOPIN                                                                1
+LABETALOL                                                               1
+LACTATED RINGERS                                                        1
+LACTULOSE                                                               1
+LAMOTRIGINE                                                             1
+PROBIOTIC                                                               1
+LANTUS                                                                  1
+LATANOPROST                                                             1
+LAXATIVE                                                                1
+LECITHIN                                                                1
+LEVALBUTEROL HYDROCHLORIDE                                              1
+LEVETIRACETAM                                                           1
+PRIMIDONE                                                               1
+LEVOTHYROXINE SODIUM                                                    1
+LEXAPRO                                                                 1
+PRIMAXIN                                                                1
+METFORMIN HYDROCHLORIDE                                                 1
+METHOCARBAMOL                                                           1
+DOXEPIN                                                                 1
+NEOMYCIN POLYMIXIN                                                      1
+Metabolic, nutritional and blood gas investigations                     1
+VITAMIN B COMPLEX WITH VITAMIN C                                        1
+OXYCODONE AND ACETAMINOPHEN                                             1
+OXYCODONE                                                               1
+OXYBUTYNIN CHLORIDE                                                     1
+N ACETYL CYSTEIN                                                        1
+NABUMETONE                                                              1
+OSMOLITE                                                                1
+NASONEX                                                                 1
+NEBIVOLOL                                                               1
+NEURONTIN                                                               1
+METHYLCOBALAMIN                                                         1
+NIACIN                                                                  1
+NIACINAMIDE                                                             1
+NIASPAN                                                                 1
+NISTATIN                                                                1
+NITROGLYCERIN                                                           1
+NORCO                                                                   1
+ORTHO EVRA                                                              1
+NORTREL                                                                 1
+OMEPRAZOLE MAGNESIUM                                                    1
+OMEGA-3 FATTY ACIDS                                                     1
+OXYGEN                                                                  1
+Menstrual cycle and uterine bleeding disorders                          1
+Oral soft tissue conditions                                             1
+MYCOSTATIN                                                              1
+METOCLOPRAMIDE                                                          1
+METOCLOPRAMIDE HYDROCHLORIDE                                            1
+POSACONAZOLE                                                            1
+METOPROLOL TARTRATE                                                     1
+POLYCARBOPHIL                                                           1
+MILK OF MAGNESIA                                                        1
+PIPERACILLIN                                                            1
+PIOGLITAZONE HYDROCHLORIDE                                              1
+MODAFINIL                                                               1
+MOMETASONE FUROATE                                                      1
+PILOCARPINE                                                             1
+MONTELUKAST SODIUM                                                      1
+MORPHIN                                                                 1
+PHENYLEPHRINE HYDROCHLORIDE                                             1
+MOTRIN                                                                  1
+MOXIFLOXACIN                                                            1
+MOXIFLOXACIN HYDROCHLORIDE                                              1
+MS CONTIN                                                               1
+MUCINEX                                                                 1
+MUCOMYST                                                                1
+PEPCID                                                                  1
+Investigations, imaging and histopathology procedures NEC               1
+PROLAMINE                                                               1
+PROMETHAZINE HYDROCHLORIDE                                              1
+FINASTERIDE                                                             1
+REGULAR INSULIN                                                         1
+REGLAN                                                                  1
+Exocrine pancreas conditions                                            1
+RANITIDINE HYDROCHLORIDE                                                1
+FAMOTIDINE                                                              1
+FEMHRT                                                                  1
+FERROUS GLUCONATE                                                       1
+RABEPRAZOLE SODIUM                                                      1
+FEXOFENADINE HYDROCHLORIDE                                              1
+FILGRASTIM                                                              1
+FIORINAL                                                                1
+ISOSOURCE                                                               1
+FLAGYL                                                                  1
+FLAXSEED OIL                                                            1
+FLUOXETINE                                                              1
+QUINIDINE                                                               1
+FLUVOXAMINE                                                             1
+Urine WBC clumps                                                        1
+FUSIDIC ACID                                                            1
+Urine Yeast Budding                                                     1
+GARLIC                                                                  1
+GATIFLOXACIN                                                            1
+Endocrine investigations (incl sex hormones)                            1
+RIBONUCLEIC ACID                                                        1
+EXCEDRIN MIGRAINE                                                       1
+ETODOLAC                                                                1
+ROBITUSSIN-DM                                                           1
+DOXYCYCLINE HYCLATE                                                     1
+ROBITUSSIN                                                              1
+ROBINUL                                                                 1
+DURAGESIC                                                               1
+Deliria (incl confusion)                                                1
+Dental and gingival conditions                                          1
+RIZATRIPTAN                                                             1
+Device issues                                                           1
+Disturbances in thinking and perception                                 1
+ECONAZOLE                                                               1
+ECONAZOLE NITRATE                                                       1
+ELAVIL                                                                  1
+ENOXAPARIN SODIUM                                                       1
+RIVASTIGMINE TARTRATE                                                   1
+RISEDRONATE SODIUM                                                      1
+ESTRADIOL                                                               1
+ESTRADIOL TRANSDERMAL SYSTEM                                            1
+ETHINYLESTRADIOL W/LEVONORGESTREL                                       1
+ETHINYLESTRADIOL W/NORELGESTROMIN                                       1
+ETHINYLESTRADIOL W/NORGESTIMATE                                         1
+GAVISCON                                                                1
+GENTAMICIN SULFATE                                                      1
+VALERIAN ROOT                                                           1
+HYDROCHLOROTHIAZIDE W/OLMESARTAN                                        1
+HYDROCORTISONE ACETATE                                                  1
+HYDROXYZINE                                                             1
+HYZAAR                                                                  1
+Hearing disorders                                                       1
+VITAMIN D2                                                              1
+PROSHIELD                                                               1
+PROSED/DS                                                               1
+Hepatobiliary therapeutic procedures                                    1
+PROPRANOLOL                                                             1
+PROPOFOL                                                                1
+PROPARACAINE                                                            1
+IMODIUM                                                                 1
+INDAPAMIDE W/PERINDOPRIL                                                1
+INDOMETACIN                                                             1
+INDOMETHACIN                                                            1
+PROPANOLOL                                                              1
+INSULIN GLARGINE                                                        1
+IPRATROPIUM BROMIDE                                                     1
+IPRATROPIUM BROMIDE W/SALBUTAMOL                                        1
+IRBESARTAN                                                              1
+IRON                                                                    1
+HYDROCODONE/APAP                                                        1
+HYDROCHLOROTHIAZIDE W/LISINOPRIL                                        1
+GLUCOSAMINE                                                             1
+VITAMIN B                                                               1
+VALSARTAN                                                               1
+GRAMICIDINE                                                             1
+GRAPE SEED EXTRACT                                                      1
+VENLAFAXINE HYDROCHLORIDE                                               1
+GUAIFENESIN W/PHENYLPROPANOLAMINE                                       1
+Purine and pyrimidine metabolism disorders                              1
+Gastrointestinal investigations                                         1
+Protein and chemistry analyses NEC                                      1
+Prostatic disorders (excl infections and inflammations)                 1
+VESICARE                                                                1
+Pleural disorders                                                       1
+VSL#3                                                                   1
+VICODIN                                                                 1
+Genitourinary tract disorders NEC                                       1
+Glaucoma and ocular hypertension                                        1
+Platelet disorders                                                      1
+VITAMIN A                                                               1
+HALDOL                                                                  1
+HALOPERIDOL                                                             1
+Penile and scrotal disorders (excl infections and inflammations)        1
+HYDRALAZINE                                                             1
+INSULIN                                                                 1

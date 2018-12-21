@@ -1,0 +1,810 @@
+    Q3_Swallowing_90 : 0.0440
+       Q5_Cutting_90 : 0.0285
+Q9_Climbing_Stairs_60 : 0.0284
+    Q3_Swallowing_15 : 0.0276
+    Q3_Swallowing_75 : 0.0270
+Q9_Climbing_Stairs_30 : 0.0267
+     Q3_Swallowing_0 : 0.0260
+Q6_Dressing_and_Hygiene_0 : 0.0249
+       respiratory_0 : 0.0248
+Q9_Climbing_Stairs_15 : 0.0246
+    Q3_Swallowing_30 : 0.0246
+Q9_Climbing_Stairs_0 : 0.0244
+    Q3_Swallowing_45 : 0.0226
+            mouth_90 : 0.0225
+        Q1_Speech_15 : 0.0223
+      respiratory_30 : 0.0222
+    Q2_Salivation_60 : 0.0218
+    Q3_Swallowing_60 : 0.0214
+      respiratory_75 : 0.0209
+Q9_Climbing_Stairs_90 : 0.0207
+Q9_Climbing_Stairs_45 : 0.0207
+    Q2_Salivation_75 : 0.0196
+      respiratory_15 : 0.0196
+      respiratory_90 : 0.0193
+       Q8_Walking_75 : 0.0192
+   Q4_Handwriting_45 : 0.0192
+Q7_Turning_in_Bed_15 : 0.0192
+Q9_Climbing_Stairs_75 : 0.0191
+         Chloride_75 : 0.0190
+           weight_15 : 0.0188
+       Q8_Walking_60 : 0.0188
+       Q5_Cutting_75 : 0.0187
+     ALSFRS_Total_75 : 0.0185
+Q7_Turning_in_Bed_60 : 0.0184
+        Q1_Speech_90 : 0.0183
+         Q1_Speech_0 : 0.0183
+       Q8_Walking_90 : 0.0183
+    Q2_Salivation_15 : 0.0180
+     ALSFRS_Total_90 : 0.0174
+      respiratory_60 : 0.0173
+     ALSFRS_Total_45 : 0.0173
+Q7_Turning_in_Bed_90 : 0.0172
+       Q8_Walking_15 : 0.0169
+Q6_Dressing_and_Hygiene_75 : 0.0168
+               leg_0 : 0.0167
+    Q4_Handwriting_0 : 0.0165
+    Q2_Salivation_90 : 0.0163
+        Q1_Speech_60 : 0.0157
+            mouth_60 : 0.0156
+   Q4_Handwriting_75 : 0.0156
+Q6_Dressing_and_Hygiene_15 : 0.0153
+        Q1_Speech_30 : 0.0150
+             mouth_0 : 0.0149
+            hands_30 : 0.0147
+           weight_75 : 0.0147
+Q7_Turning_in_Bed_45 : 0.0146
+       Q5_Cutting_15 : 0.0137
+            hands_60 : 0.0134
+            weight_0 : 0.0134
+Q6_Dressing_and_Hygiene_30 : 0.0133
+ Q7_Turning_in_Bed_0 : 0.0133
+              leg_90 : 0.0131
+    Q2_Salivation_30 : 0.0130
+           weight_30 : 0.0129
+       Q5_Cutting_60 : 0.0128
+Q7_Turning_in_Bed_75 : 0.0128
+     Q2_Salivation_0 : 0.0126
+   Q4_Handwriting_60 : 0.0125
+              leg_75 : 0.0123
+       Q5_Cutting_45 : 0.0120
+       Q5_Cutting_30 : 0.0119
+       Q8_Walking_30 : 0.0119
+        Q8_Walking_0 : 0.0119
+      respiratory_45 : 0.0118
+            mouth_15 : 0.0115
+        Q1_Speech_45 : 0.0108
+           SubjectID : 0.0106
+          Chloride_0 : 0.0106
+           weight_45 : 0.0106
+       Q8_Walking_45 : 0.0104
+     ALSFRS_Total_30 : 0.0104
+     ALSFRS_Total_60 : 0.0101
+            mouth_75 : 0.0101
+Q6_Dressing_and_Hygiene_90 : 0.0099
+              leg_60 : 0.0099
+         Chloride_90 : 0.0096
+Q7_Turning_in_Bed_30 : 0.0096
+             hands_0 : 0.0090
+    Q2_Salivation_45 : 0.0084
+            mouth_45 : 0.0084
+              leg_30 : 0.0084
+                 Age : 0.0081
+        Q1_Speech_75 : 0.0080
+Q6_Dressing_and_Hygiene_45 : 0.0079
+            hands_45 : 0.0077
+Q6_Dressing_and_Hygiene_60 : 0.0073
+            hands_15 : 0.0073
+            hands_90 : 0.0070
+              leg_15 : 0.0065
+        Hemoglobin_0 : 0.0063
+            hands_75 : 0.0061
+   Q4_Handwriting_30 : 0.0060
+              leg_45 : 0.0057
+       Hemoglobin_30 : 0.0056
+            mouth_30 : 0.0056
+       Hemoglobin_45 : 0.0056
+     bp_diastolic_45 : 0.0055
+           weight_60 : 0.0050
+       Hematocrit_90 : 0.0049
+       Hemoglobin_90 : 0.0048
+           weight_90 : 0.0048
+   Q4_Handwriting_90 : 0.0043
+         Chloride_30 : 0.0039
+     bp_diastolic_15 : 0.0039
+       Hematocrit_15 : 0.0034
+      bp_systolic_15 : 0.0033
+       Hemoglobin_15 : 0.0024
+        Q5_Cutting_0 : 0.0023
+     bp_diastolic_90 : 0.0020
+       Hematocrit_60 : 0.0019
+      bp_systolic_30 : 0.0016
+       bp_systolic_0 : 0.0015
+      bp_diastolic_0 : 0.0015
+        Hematocrit_0 : 0.0015
+         Chloride_15 : 0.0015
+     ALSFRS_Total_15 : 0.0014
+      bp_systolic_60 : 0.0009
+              Gender : 0.0006
+       Hematocrit_45 : 0.0004
+       Hemoglobin_60 : 0.0000
+      bp_systolic_45 : 0.0000
+     bp_diastolic_30 : 0.0000
+      ALSFRS_Total_0 : 0.0000
+     bp_diastolic_60 : 0.0000
+         Chloride_45 : 0.0000
+         Chloride_60 : 0.0000
+      bp_systolic_75 : 0.0000
+     bp_diastolic_75 : 0.0000
+       Hematocrit_30 : 0.0000
+       Hematocrit_75 : 0.0000
+      bp_systolic_90 : 0.0000
+       Hemoglobin_75 : 0.0000
+   Q4_Handwriting_15 : 0.0000
+**************************************************
+  Q9_Climbing_Stairs : 0.0225
+                 Age : 0.0215
+       Q3_Swallowing : 0.0215
+        ALSFRS_Total : 0.0173
+   Q7_Turning_in_Bed : 0.0146
+      Q4_Handwriting : 0.0133
+       Q2_Salivation : 0.0125
+          Q8_Walking : 0.0115
+          Q5_Cutting : 0.0111
+           SubjectID : 0.0106
+              weight : 0.0106
+               hands : 0.0096
+           Q1_Speech : 0.0087
+         respiratory : 0.0087
+               mouth : 0.0086
+Q6_Dressing_and_Hygiene : 0.0080
+          Hemoglobin : 0.0056
+        bp_diastolic : 0.0055
+                 leg : 0.0052
+              Gender : 0.0024
+          Hematocrit : 0.0004
+         bp_systolic : 0.0000
+            Chloride : 0.0000
+**************************************************
+        ALSFRS_Total : 0.0910
+          Q8_Walking : 0.0710
+       Q3_Swallowing : 0.0617
+          Q5_Cutting : 0.0589
+               mouth : 0.0556
+            Chloride : 0.0546
+  Q9_Climbing_Stairs : 0.0535
+                 leg : 0.0519
+   Q7_Turning_in_Bed : 0.0502
+Q6_Dressing_and_Hygiene : 0.0483
+           Q1_Speech : 0.0455
+         respiratory : 0.0449
+               hands : 0.0416
+      Q4_Handwriting : 0.0398
+              weight : 0.0378
+          Hematocrit : 0.0350
+       Q2_Salivation : 0.0346
+         bp_systolic : 0.0298
+          Hemoglobin : 0.0219
+        bp_diastolic : 0.0180
+                 Age : 0.0147
+           SubjectID : 0.0106
+              Gender : 0.0046
+**************************************************
+
+
+
+
+
+
+
+
+
+
+
+Q7_Turning_in_Bed_90 : 0.0995
+Q7_Turning_in_Bed_75 : 0.0993
+        Q1_Speech_75 : 0.0960
+            mouth_90 : 0.0946
+        Q1_Speech_30 : 0.0939
+   Q4_Handwriting_45 : 0.0935
+Q7_Turning_in_Bed_60 : 0.0889
+     ALSFRS_Total_75 : 0.0858
+     ALSFRS_Total_90 : 0.0846
+        Q1_Speech_60 : 0.0837
+     ALSFRS_Total_45 : 0.0829
+        Q1_Speech_90 : 0.0825
+     ALSFRS_Total_60 : 0.0810
+        Q1_Speech_45 : 0.0805
+        Q1_Speech_15 : 0.0804
+     ALSFRS_Total_30 : 0.0774
+Q6_Dressing_and_Hygiene_75 : 0.0753
+     ALSFRS_Total_15 : 0.0750
+         Q1_Speech_0 : 0.0700
+      ALSFRS_Total_0 : 0.0697
+Q6_Dressing_and_Hygiene_60 : 0.0695
+            mouth_75 : 0.0687
+   Q4_Handwriting_30 : 0.0681
+   Q4_Handwriting_60 : 0.0666
+Q6_Dressing_and_Hygiene_90 : 0.0656
+            mouth_60 : 0.0641
+       Q8_Walking_60 : 0.0625
+       Q8_Walking_45 : 0.0618
+Q6_Dressing_and_Hygiene_0 : 0.0613
+      respiratory_60 : 0.0592
+            mouth_15 : 0.0590
+Q7_Turning_in_Bed_45 : 0.0582
+            mouth_30 : 0.0582
+Q7_Turning_in_Bed_15 : 0.0581
+      respiratory_15 : 0.0576
+Q6_Dressing_and_Hygiene_45 : 0.0569
+      respiratory_45 : 0.0561
+       Q8_Walking_75 : 0.0559
+      respiratory_30 : 0.0558
+Q6_Dressing_and_Hygiene_15 : 0.0555
+            mouth_45 : 0.0542
+ Q7_Turning_in_Bed_0 : 0.0525
+Q9_Climbing_Stairs_90 : 0.0519
+       Q8_Walking_90 : 0.0519
+Q6_Dressing_and_Hygiene_30 : 0.0460
+    Q3_Swallowing_15 : 0.0454
+   Q4_Handwriting_15 : 0.0443
+       Q8_Walking_15 : 0.0424
+    Q3_Swallowing_90 : 0.0409
+    Q3_Swallowing_30 : 0.0403
+Q9_Climbing_Stairs_75 : 0.0403
+    Q3_Swallowing_60 : 0.0399
+Q7_Turning_in_Bed_30 : 0.0397
+              leg_90 : 0.0396
+        Q8_Walking_0 : 0.0393
+           weight_30 : 0.0381
+    Q3_Swallowing_75 : 0.0378
+           weight_15 : 0.0376
+       Q8_Walking_30 : 0.0371
+Q9_Climbing_Stairs_45 : 0.0371
+         Chloride_30 : 0.0370
+                 Age : 0.0369
+      respiratory_75 : 0.0348
+       Q5_Cutting_45 : 0.0332
+       respiratory_0 : 0.0329
+Q9_Climbing_Stairs_30 : 0.0326
+              leg_45 : 0.0323
+    Q3_Swallowing_45 : 0.0305
+              leg_30 : 0.0304
+       Q5_Cutting_15 : 0.0302
+              leg_15 : 0.0301
+   Q4_Handwriting_75 : 0.0299
+Q9_Climbing_Stairs_15 : 0.0298
+       Q5_Cutting_60 : 0.0296
+             mouth_0 : 0.0291
+            weight_0 : 0.0290
+           weight_45 : 0.0290
+     Q3_Swallowing_0 : 0.0283
+    Q4_Handwriting_0 : 0.0273
+Q9_Climbing_Stairs_0 : 0.0270
+       Q5_Cutting_30 : 0.0268
+              leg_75 : 0.0264
+           weight_60 : 0.0263
+              leg_60 : 0.0252
+         Chloride_15 : 0.0240
+Q9_Climbing_Stairs_60 : 0.0220
+       bp_systolic_0 : 0.0206
+      respiratory_90 : 0.0201
+      bp_systolic_15 : 0.0197
+            hands_60 : 0.0193
+           weight_75 : 0.0192
+               leg_0 : 0.0191
+            hands_75 : 0.0184
+        Q5_Cutting_0 : 0.0179
+            hands_45 : 0.0168
+    Q2_Salivation_90 : 0.0167
+    Q2_Salivation_45 : 0.0154
+           weight_90 : 0.0149
+      bp_systolic_30 : 0.0145
+          Chloride_0 : 0.0142
+      bp_systolic_45 : 0.0128
+            hands_90 : 0.0123
+            hands_30 : 0.0108
+    Q2_Salivation_75 : 0.0107
+       Q5_Cutting_75 : 0.0105
+      bp_systolic_60 : 0.0089
+       Q5_Cutting_90 : 0.0076
+       Hematocrit_30 : 0.0072
+            hands_15 : 0.0055
+             hands_0 : 0.0044
+       Hemoglobin_90 : 0.0036
+         Chloride_75 : 0.0000
+        Hematocrit_0 : 0.0000
+              Gender : 0.0000
+         Chloride_90 : 0.0000
+   Q4_Handwriting_90 : 0.0000
+         Chloride_60 : 0.0000
+         Chloride_45 : 0.0000
+     bp_diastolic_90 : 0.0000
+      bp_systolic_75 : 0.0000
+      bp_systolic_90 : 0.0000
+       Hematocrit_15 : 0.0000
+       Hematocrit_75 : 0.0000
+       Hematocrit_45 : 0.0000
+       Hematocrit_60 : 0.0000
+    Q2_Salivation_60 : 0.0000
+    Q2_Salivation_30 : 0.0000
+    Q2_Salivation_15 : 0.0000
+     Q2_Salivation_0 : 0.0000
+      bp_diastolic_0 : 0.0000
+     bp_diastolic_15 : 0.0000
+     bp_diastolic_30 : 0.0000
+     bp_diastolic_45 : 0.0000
+     bp_diastolic_60 : 0.0000
+     bp_diastolic_75 : 0.0000
+       Hemoglobin_75 : 0.0000
+       Hemoglobin_60 : 0.0000
+       Hemoglobin_45 : 0.0000
+       Hemoglobin_30 : 0.0000
+       Hemoglobin_15 : 0.0000
+        Hemoglobin_0 : 0.0000
+       Hematocrit_90 : 0.0000
+           SubjectID : 0.0000
+**************************************************
+      Q4_Handwriting : 0.0950
+           Q1_Speech : 0.0858
+        ALSFRS_Total : 0.0833
+         respiratory : 0.0692
+          Q8_Walking : 0.0633
+Q6_Dressing_and_Hygiene : 0.0601
+   Q7_Turning_in_Bed : 0.0572
+               mouth : 0.0543
+                 Age : 0.0385
+  Q9_Climbing_Stairs : 0.0353
+          Q5_Cutting : 0.0322
+       Q3_Swallowing : 0.0317
+                 leg : 0.0311
+              weight : 0.0267
+               hands : 0.0195
+         bp_systolic : 0.0117
+       Q2_Salivation : 0.0014
+            Chloride : 0.0006
+        bp_diastolic : 0.0000
+          Hemoglobin : 0.0000
+          Hematocrit : 0.0000
+              Gender : 0.0000
+           SubjectID : 0.0000
+**************************************************
+       Q3_Swallowing : 0.1954
+            Chloride : 0.1426
+         respiratory : 0.1237
+               mouth : 0.1122
+        ALSFRS_Total : 0.0801
+           Q1_Speech : 0.0487
+               hands : 0.0437
+      Q4_Handwriting : 0.0414
+                 Age : 0.0345
+         bp_systolic : 0.0283
+       Q2_Salivation : 0.0278
+              weight : 0.0121
+   Q7_Turning_in_Bed : 0.0090
+          Q5_Cutting : 0.0063
+          Q8_Walking : 0.0019
+Q6_Dressing_and_Hygiene : 0.0000
+          Hemoglobin : 0.0000
+          Hematocrit : 0.0000
+              Gender : 0.0000
+  Q9_Climbing_Stairs : 0.0000
+        bp_diastolic : 0.0000
+                 leg : 0.0000
+           SubjectID : 0.0000
+**************************************************
+
+
+
+
+
+
+
+
+
+
+
+Q6_Dressing_and_Hygiene_90 : 0.1027
+     Q3_Swallowing_0 : 0.0970
+ Q7_Turning_in_Bed_0 : 0.0939
+    Q4_Handwriting_0 : 0.0933
+         Q1_Speech_0 : 0.0902
+            hands_90 : 0.0887
+             mouth_0 : 0.0884
+    Q3_Swallowing_15 : 0.0871
+Q6_Dressing_and_Hygiene_75 : 0.0843
+       Q5_Cutting_90 : 0.0821
+        Q8_Walking_0 : 0.0815
+    Q3_Swallowing_30 : 0.0808
+        Q5_Cutting_0 : 0.0802
+        Q1_Speech_90 : 0.0802
+        Q1_Speech_15 : 0.0791
+   Q4_Handwriting_15 : 0.0790
+       Q8_Walking_90 : 0.0776
+       Q5_Cutting_75 : 0.0768
+        Q1_Speech_30 : 0.0760
+Q6_Dressing_and_Hygiene_60 : 0.0754
+       Q8_Walking_15 : 0.0753
+Q7_Turning_in_Bed_15 : 0.0747
+            mouth_15 : 0.0743
+        Q1_Speech_45 : 0.0703
+       respiratory_0 : 0.0690
+    Q3_Swallowing_45 : 0.0667
+       Q5_Cutting_15 : 0.0662
+Q6_Dressing_and_Hygiene_15 : 0.0655
+       Q8_Walking_30 : 0.0653
+Q6_Dressing_and_Hygiene_0 : 0.0650
+Q6_Dressing_and_Hygiene_45 : 0.0643
+   Q4_Handwriting_90 : 0.0641
+            hands_75 : 0.0639
+      respiratory_15 : 0.0637
+    Q3_Swallowing_75 : 0.0637
+Q7_Turning_in_Bed_30 : 0.0635
+   Q4_Handwriting_30 : 0.0632
+              leg_90 : 0.0629
+       Q5_Cutting_30 : 0.0625
+    Q3_Swallowing_60 : 0.0624
+       Q8_Walking_45 : 0.0624
+      respiratory_45 : 0.0617
+Q6_Dressing_and_Hygiene_30 : 0.0605
+            mouth_30 : 0.0604
+   Q4_Handwriting_60 : 0.0601
+   Q4_Handwriting_75 : 0.0598
+       Q5_Cutting_60 : 0.0595
+        Q1_Speech_75 : 0.0591
+    Q3_Swallowing_90 : 0.0584
+            hands_30 : 0.0579
+             hands_0 : 0.0574
+Q7_Turning_in_Bed_90 : 0.0565
+      respiratory_30 : 0.0564
+Q9_Climbing_Stairs_15 : 0.0563
+        Q1_Speech_60 : 0.0563
+       Q5_Cutting_45 : 0.0560
+       Q8_Walking_75 : 0.0554
+Q7_Turning_in_Bed_45 : 0.0554
+            hands_15 : 0.0551
+            hands_60 : 0.0549
+   Q4_Handwriting_45 : 0.0540
+Q9_Climbing_Stairs_0 : 0.0539
+     Q2_Salivation_0 : 0.0530
+Q9_Climbing_Stairs_30 : 0.0529
+            hands_45 : 0.0529
+       Q8_Walking_60 : 0.0526
+              leg_75 : 0.0520
+Q9_Climbing_Stairs_90 : 0.0511
+Q7_Turning_in_Bed_60 : 0.0511
+Q7_Turning_in_Bed_75 : 0.0505
+     ALSFRS_Total_90 : 0.0504
+Q9_Climbing_Stairs_75 : 0.0499
+    Q2_Salivation_45 : 0.0495
+    Q2_Salivation_15 : 0.0488
+Q9_Climbing_Stairs_60 : 0.0485
+               leg_0 : 0.0484
+Q9_Climbing_Stairs_45 : 0.0472
+    Q2_Salivation_30 : 0.0469
+              leg_15 : 0.0449
+      respiratory_60 : 0.0445
+              leg_45 : 0.0426
+     ALSFRS_Total_75 : 0.0424
+            mouth_90 : 0.0422
+            mouth_45 : 0.0421
+              leg_30 : 0.0406
+              leg_60 : 0.0402
+    Q2_Salivation_90 : 0.0394
+    Q2_Salivation_75 : 0.0380
+     ALSFRS_Total_45 : 0.0375
+    Q2_Salivation_60 : 0.0370
+      respiratory_90 : 0.0367
+     ALSFRS_Total_60 : 0.0355
+            mouth_75 : 0.0326
+            mouth_60 : 0.0311
+      respiratory_75 : 0.0303
+     ALSFRS_Total_30 : 0.0270
+     ALSFRS_Total_15 : 0.0234
+      ALSFRS_Total_0 : 0.0231
+     bp_diastolic_90 : 0.0150
+         Chloride_45 : 0.0130
+       bp_systolic_0 : 0.0128
+      bp_systolic_15 : 0.0122
+       Hematocrit_90 : 0.0077
+           weight_60 : 0.0064
+     bp_diastolic_75 : 0.0056
+         Chloride_60 : 0.0055
+       Hematocrit_75 : 0.0048
+          Chloride_0 : 0.0046
+       Hemoglobin_75 : 0.0044
+         Chloride_30 : 0.0041
+       Hemoglobin_60 : 0.0040
+     bp_diastolic_30 : 0.0038
+           weight_75 : 0.0031
+      bp_systolic_30 : 0.0031
+     bp_diastolic_45 : 0.0028
+           weight_30 : 0.0027
+           weight_45 : 0.0026
+      bp_diastolic_0 : 0.0023
+         Chloride_75 : 0.0023
+           SubjectID : 0.0022
+       Hematocrit_60 : 0.0022
+           weight_90 : 0.0012
+         Chloride_15 : 0.0009
+       Hemoglobin_45 : 0.0007
+           weight_15 : 0.0007
+       Hematocrit_45 : 0.0005
+                 Age : 0.0000
+            weight_0 : 0.0000
+      bp_systolic_90 : 0.0000
+      bp_systolic_75 : 0.0000
+      bp_systolic_60 : 0.0000
+      bp_systolic_45 : 0.0000
+     bp_diastolic_60 : 0.0000
+        Hemoglobin_0 : 0.0000
+     bp_diastolic_15 : 0.0000
+       Hemoglobin_30 : 0.0000
+       Hemoglobin_15 : 0.0000
+         Chloride_90 : 0.0000
+              Gender : 0.0000
+        Hematocrit_0 : 0.0000
+       Hematocrit_15 : 0.0000
+       Hematocrit_30 : 0.0000
+       Hemoglobin_90 : 0.0000
+**************************************************
+       Q3_Swallowing : 0.0675
+Q6_Dressing_and_Hygiene : 0.0673
+           Q1_Speech : 0.0651
+          Q8_Walking : 0.0647
+   Q7_Turning_in_Bed : 0.0561
+               hands : 0.0558
+          Q5_Cutting : 0.0557
+      Q4_Handwriting : 0.0554
+         respiratory : 0.0515
+  Q9_Climbing_Stairs : 0.0505
+       Q2_Salivation : 0.0475
+               mouth : 0.0404
+                 leg : 0.0401
+        ALSFRS_Total : 0.0385
+            Chloride : 0.0135
+        bp_diastolic : 0.0034
+              weight : 0.0026
+           SubjectID : 0.0017
+          Hematocrit : 0.0017
+              Gender : 0.0006
+          Hemoglobin : 0.0000
+                 Age : 0.0000
+         bp_systolic : 0.0000
+**************************************************
+        ALSFRS_Total : 0.8022
+               hands : 0.3489
+Q6_Dressing_and_Hygiene : 0.3380
+   Q7_Turning_in_Bed : 0.3313
+                 leg : 0.3053
+          Q5_Cutting : 0.2987
+          Q8_Walking : 0.2628
+               mouth : 0.2523
+      Q4_Handwriting : 0.2521
+  Q9_Climbing_Stairs : 0.2420
+       Q3_Swallowing : 0.2055
+           Q1_Speech : 0.1817
+         respiratory : 0.1462
+       Q2_Salivation : 0.1346
+              weight : 0.0842
+          Hemoglobin : 0.0425
+          Hematocrit : 0.0190
+         bp_systolic : 0.0169
+            Chloride : 0.0142
+        bp_diastolic : 0.0096
+           SubjectID : 0.0020
+              Gender : 0.0000
+                 Age : 0.0000
+**************************************************
+
+
+
+
+
+
+
+
+
+
+
+Q7_Turning_in_Bed_90 : 0.0837
+       Q8_Walking_90 : 0.0796
+Q7_Turning_in_Bed_75 : 0.0778
+Q7_Turning_in_Bed_60 : 0.0751
+Q7_Turning_in_Bed_45 : 0.0736
+       Hematocrit_75 : 0.0663
+       Q8_Walking_75 : 0.0651
+       Hematocrit_60 : 0.0642
+       bp_systolic_0 : 0.0623
+       Hematocrit_45 : 0.0610
+Q7_Turning_in_Bed_30 : 0.0592
+         Chloride_30 : 0.0587
+     ALSFRS_Total_90 : 0.0571
+       Q8_Walking_60 : 0.0531
+         Chloride_15 : 0.0527
+       Hematocrit_90 : 0.0514
+      respiratory_45 : 0.0510
+      respiratory_60 : 0.0509
+Q6_Dressing_and_Hygiene_90 : 0.0503
+ Q7_Turning_in_Bed_0 : 0.0501
+        Q8_Walking_0 : 0.0499
+         Chloride_45 : 0.0497
+       Q8_Walking_15 : 0.0493
+Q6_Dressing_and_Hygiene_60 : 0.0486
+Q6_Dressing_and_Hygiene_75 : 0.0484
+       Q8_Walking_30 : 0.0481
+Q7_Turning_in_Bed_15 : 0.0467
+       Q8_Walking_45 : 0.0462
+      respiratory_75 : 0.0434
+      respiratory_30 : 0.0433
+              leg_90 : 0.0430
+      bp_systolic_15 : 0.0430
+     ALSFRS_Total_75 : 0.0428
+                 Age : 0.0417
+            hands_90 : 0.0399
+Q6_Dressing_and_Hygiene_45 : 0.0384
+        Q5_Cutting_0 : 0.0371
+       Hematocrit_30 : 0.0370
+      respiratory_90 : 0.0343
+         Chloride_60 : 0.0343
+     ALSFRS_Total_60 : 0.0335
+         Chloride_90 : 0.0316
+Q6_Dressing_and_Hygiene_30 : 0.0302
+    Q3_Swallowing_90 : 0.0295
+       Hematocrit_15 : 0.0294
+            hands_75 : 0.0293
+       Q5_Cutting_15 : 0.0292
+              leg_75 : 0.0292
+Q9_Climbing_Stairs_75 : 0.0291
+      bp_systolic_30 : 0.0288
+Q9_Climbing_Stairs_90 : 0.0284
+       Q5_Cutting_90 : 0.0284
+       Q5_Cutting_75 : 0.0279
+        Q1_Speech_60 : 0.0277
+        Hematocrit_0 : 0.0274
+         Chloride_75 : 0.0268
+       Q5_Cutting_45 : 0.0267
+            hands_60 : 0.0264
+        Q1_Speech_75 : 0.0262
+       Hemoglobin_30 : 0.0258
+       Q5_Cutting_30 : 0.0256
+        Q1_Speech_45 : 0.0254
+Q9_Climbing_Stairs_60 : 0.0252
+            hands_45 : 0.0248
+      respiratory_15 : 0.0241
+       Q5_Cutting_60 : 0.0235
+        Q1_Speech_90 : 0.0232
+              leg_60 : 0.0226
+              leg_15 : 0.0216
+     ALSFRS_Total_45 : 0.0216
+              leg_45 : 0.0213
+              leg_30 : 0.0206
+               leg_0 : 0.0201
+          Chloride_0 : 0.0200
+Q6_Dressing_and_Hygiene_15 : 0.0198
+       Hemoglobin_15 : 0.0197
+Q6_Dressing_and_Hygiene_0 : 0.0188
+      bp_systolic_45 : 0.0182
+            hands_15 : 0.0181
+            hands_30 : 0.0180
+     ALSFRS_Total_30 : 0.0179
+           SubjectID : 0.0171
+        Q1_Speech_30 : 0.0163
+       Hemoglobin_45 : 0.0157
+    Q3_Swallowing_75 : 0.0152
+Q9_Climbing_Stairs_30 : 0.0115
+Q9_Climbing_Stairs_45 : 0.0106
+            mouth_75 : 0.0100
+       Hemoglobin_60 : 0.0095
+Q9_Climbing_Stairs_0 : 0.0094
+            mouth_90 : 0.0091
+         Q1_Speech_0 : 0.0091
+        Hemoglobin_0 : 0.0088
+Q9_Climbing_Stairs_15 : 0.0078
+             hands_0 : 0.0077
+       respiratory_0 : 0.0076
+      bp_systolic_60 : 0.0067
+     ALSFRS_Total_15 : 0.0045
+        Q1_Speech_15 : 0.0039
+      ALSFRS_Total_0 : 0.0038
+       Hemoglobin_90 : 0.0023
+       Hemoglobin_75 : 0.0022
+    Q3_Swallowing_60 : 0.0011
+             mouth_0 : 0.0000
+           weight_15 : 0.0000
+     bp_diastolic_75 : 0.0000
+     bp_diastolic_90 : 0.0000
+           weight_60 : 0.0000
+           weight_45 : 0.0000
+           weight_30 : 0.0000
+            weight_0 : 0.0000
+              Gender : 0.0000
+            mouth_60 : 0.0000
+      bp_systolic_75 : 0.0000
+            mouth_45 : 0.0000
+            mouth_30 : 0.0000
+      bp_systolic_90 : 0.0000
+     bp_diastolic_60 : 0.0000
+            mouth_15 : 0.0000
+           weight_75 : 0.0000
+     bp_diastolic_45 : 0.0000
+    Q3_Swallowing_15 : 0.0000
+   Q4_Handwriting_90 : 0.0000
+   Q4_Handwriting_75 : 0.0000
+   Q4_Handwriting_60 : 0.0000
+   Q4_Handwriting_45 : 0.0000
+   Q4_Handwriting_30 : 0.0000
+   Q4_Handwriting_15 : 0.0000
+    Q4_Handwriting_0 : 0.0000
+    Q3_Swallowing_45 : 0.0000
+    Q3_Swallowing_30 : 0.0000
+     Q3_Swallowing_0 : 0.0000
+     bp_diastolic_30 : 0.0000
+    Q2_Salivation_90 : 0.0000
+    Q2_Salivation_75 : 0.0000
+    Q2_Salivation_60 : 0.0000
+    Q2_Salivation_45 : 0.0000
+    Q2_Salivation_30 : 0.0000
+    Q2_Salivation_15 : 0.0000
+     Q2_Salivation_0 : 0.0000
+      bp_diastolic_0 : 0.0000
+     bp_diastolic_15 : 0.0000
+           weight_90 : 0.0000
+**************************************************
+   Q7_Turning_in_Bed : 0.0754
+          Hematocrit : 0.0610
+            Chloride : 0.0504
+         respiratory : 0.0493
+          Q8_Walking : 0.0457
+                 Age : 0.0413
+Q6_Dressing_and_Hygiene : 0.0382
+          Q5_Cutting : 0.0277
+               hands : 0.0244
+           Q1_Speech : 0.0243
+        ALSFRS_Total : 0.0215
+                 leg : 0.0213
+           SubjectID : 0.0173
+         bp_systolic : 0.0168
+          Hemoglobin : 0.0144
+  Q9_Climbing_Stairs : 0.0105
+       Q3_Swallowing : 0.0000
+       Q2_Salivation : 0.0000
+      Q4_Handwriting : 0.0000
+              Gender : 0.0000
+        bp_diastolic : 0.0000
+               mouth : 0.0000
+              weight : 0.0000
+**************************************************
+        ALSFRS_Total : 0.6594
+               hands : 0.3035
+          Q8_Walking : 0.2811
+   Q7_Turning_in_Bed : 0.2501
+      Q4_Handwriting : 0.2330
+         respiratory : 0.2241
+Q6_Dressing_and_Hygiene : 0.2207
+           Q1_Speech : 0.1659
+                 leg : 0.1636
+       Q3_Swallowing : 0.1627
+               mouth : 0.1618
+          Q5_Cutting : 0.1196
+       Q2_Salivation : 0.1133
+        bp_diastolic : 0.0697
+              weight : 0.0576
+                 Age : 0.0429
+           SubjectID : 0.0184
+         bp_systolic : 0.0093
+  Q9_Climbing_Stairs : 0.0037
+          Hemoglobin : 0.0000
+          Hematocrit : 0.0000
+              Gender : 0.0000
+            Chloride : 0.0000
+**************************************************
+
+
+
+
+
+
+
+
+
