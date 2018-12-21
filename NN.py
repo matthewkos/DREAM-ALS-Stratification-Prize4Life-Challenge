@@ -96,7 +96,7 @@ def test(sess, loss_op, log_op, logger, data):
 
 if __name__ == '__main__':
     t_train, s_train, y_train, t_val, s_val, y_val = read_data()
-    save_path = '/model/sub-1.ckpt'
+    save_path = '/model/sub-2.ckpt'
     batch_size = 10
     time_series_feature = t_train.shape[1]
     time_series_length = t_train.shape[2]
@@ -116,7 +116,7 @@ if __name__ == '__main__':
     #
     # test
     tf.reset_default_graph()
-    _, loss_all, log_all, _, placeholder = build_graph(10, 20, 7, 2)
+    _, loss_all, log_all, _, placeholder = build_graph(batch_size, time_series_feature, time_series_length, scalar_feature)
     data = data_flow(t_train, s_train, y_train, placeholder)
     saver = tf.train.Saver()
     with tf.Session() as sess:
@@ -127,7 +127,7 @@ if __name__ == '__main__':
 
     # val
     tf.reset_default_graph()
-    _, loss_all, log_all, _, placeholder = build_graph(10, 20, 7, 2)
+    _, loss_all, log_all, _, placeholder = build_graph(batch_size, time_series_feature, time_series_length, scalar_feature)
     data = data_flow(t_val, s_val, y_val, placeholder)
     saver = tf.train.Saver()
     with tf.Session() as sess:

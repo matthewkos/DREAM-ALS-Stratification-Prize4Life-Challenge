@@ -17,9 +17,9 @@ def times_series(data):
     #             'Q4_Handwriting', 'Q5_Cutting', 'Q6_Dressing_and_Hygiene', 'Q7_Turning_in_Bed', 'Q8_Walking',
     #             'Q9_Climbing_Stairs', 'respiratory', 'weight']
     # sub-1
-    features =  ['ALSFRS_Total', 'bp_diastolic','Chloride', 'hands', 'Q1_Speech', 'Q6_Dressing_and_Hygiene']
+    # features =  ['ALSFRS_Total', 'bp_diastolic','Chloride', 'hands', 'Q1_Speech', 'Q6_Dressing_and_Hygiene']
     # sub-2
-    # features = ['bp_systolic', 'hands', 'leg', 'mouth', 'Q7_Turning_in_Bed', 'Q8_Walking','weight']
+    features = ['bp_systolic', 'hands', 'leg', 'mouth', 'Q7_Turning_in_Bed', 'weight']
     data = data[features].values
     t_data = np.empty((data.shape[0], data.shape[1], data[0, 0].shape[0]))
     for i in range(data.shape[0]):
@@ -31,9 +31,9 @@ def times_series(data):
 def saclar(data):
     # features = ['Age', 'Gender']
     # sub-1
-    features = ['Gender']
+    #features = ['Gender']
     # sub-2
-    # features = ['Age']
+    features = ['Age']
     data = data[features].values
     return data
 
